@@ -26,6 +26,12 @@ function newGame(){
     // hydrate state
 }
 
+// Model functions
+/*
+    updateState({key:value});
+    addMove({who:player1, where:square32});
+    
+
 // View -
 function buildUI(){
 
@@ -33,5 +39,5 @@ function buildUI(){
 
 // Controller -
 function onMove(){
-    
+
 }
